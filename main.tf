@@ -1,7 +1,7 @@
 /**
- * # Terraform: Template
+ * # Terraform GitHub: Template
  *
- * Terraform GitHub Module Template.
+ * Terraform Module Template for GitHub.
  *
  * [![Terraform Docs](https://github.com/fr-platform/terraform-github-template/actions/workflows/terraform-docs.yml/badge.svg)](https://github.com/fr-platform/terraform-github-template/actions/workflows/terraform-docs.yml)
  * [![Checkov](https://github.com/fr-platform/terraform-github-template/actions/workflows/checkov.yml/badge.svg)](https://github.com/fr-platform/terraform-github-template/actions/workflows/checkov.yml)
